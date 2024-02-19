@@ -35,7 +35,8 @@ The initial dataset contained several missing values and discrepancies. Data cle
 
      - The Finance department has the highest attrition rate at 53.57%, followed by IT at 35.29%.
      - The Sales department has the lowest attrition rate at 20.83%.
-       
+       <img width="284" alt="Screenshot 2024-02-19 173630" src="https://github.com/aanchals14/Empower-HR/assets/131793044/72c7db5a-d952-4a0d-8e5d-db0c385a0d3b">
+
   2. Position-wise Attrition rates
 
      - The positions with the highest attrition rates are Financial Manager (85.71%) and Marketing Manager (54.55%). Immediate attention is needed to understand why these roles are experiencing such high attrition.
@@ -44,9 +45,14 @@ The initial dataset contained several missing values and discrepancies. Data cle
      - While Data Scientists have a 31.03% attrition rate, the total number of Data Scientists is the highest at 29. Even if the rate is not the highest, the volume of attrition could be impactful.
      - Interestingly, the HR Coordinator has a higher attrition rate (41.67%) compared to the HR Manager (8.33%), suggesting that the level in the hierarchy could be a factor in job stability.
      - The Marketing Analyst has a lower attrition rate compared to the Marketing Manager. This might indicate that as employees move up the ladder in Marketing, they are more likely to leave.
+       <img width="309" alt="Screenshot 2024-02-19 174439" src="https://github.com/aanchals14/Empower-HR/assets/131793044/cdaa66f3-f5fc-452b-a652-84b1664233cf">
+
 
   3. Performance rating-wise attrition rates
      - Employees with a performance rating of 4.0 have the highest attrition rate at 38.04%.
      - Even employees with a high-performance rating of 5.0 have a significant attrition rate of 34.48%.
      - Employees with a performance rating of 3.0 have the lowest attrition rate at 23.08%.
-     - It's intriguing that employees with high-performance ratings are more likely to leave the company. 
+     - It's intriguing that employees with high-performance ratings are more likely to leave the company.
+       <img width="311" alt="Screenshot 2024-02-19 175011" src="https://github.com/aanchals14/Empower-HR/assets/131793044/e4d73e30-e62c-4e72-8eae-8e75ce6fb4eb">
+
+
