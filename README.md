@@ -55,4 +55,12 @@ The initial dataset contained several missing values and discrepancies. Data cle
      - It's intriguing that employees with high-performance ratings are more likely to leave the company.
        <img width="311" alt="Screenshot 2024-02-19 175011" src="https://github.com/aanchals14/Empower-HR/assets/131793044/e4d73e30-e62c-4e72-8eae-8e75ce6fb4eb">
 
-
+### Recommendations
+- Given the high attrition rates in the Finance and IT departments, targeted retention programs may be effective. This could include mentorship programs, work-life balance initiatives, and career development plans.
+- Employees with 2 years and those with 7-8 years of service are leaving at high rates. For newer employees, improved onboarding and mentorship could help. For veterans, new career growth opportunities or skill diversification may be beneficial.
+- Surprisingly, employees in higher salary brackets are leaving more frequently. This could indicate that the issue is not salary but other factors like work culture, growth opportunities, or job satisfaction. A comprehensive review could help understand this counterintuitive trend.
+- Employees with higher performance ratings are also leaving. Ensure that high performers are adequately recognized and have clear paths for career progression.
+- While job satisfaction is generally high, employees are still leaving. Regular surveys and one-on-one meetings could help identify and address hidden issues.
+- The average training hours are lower for employees who left. This could point to the effectiveness of training programs for employee retention, although the difference is minimal.
+- The number of training hours doesn't necessarily correlate with better performance. The focus should be on the quality and relevance of the training programs.
+- Recommendations include focusing on training quality, tailoring training programs, and linking training to career progression.
