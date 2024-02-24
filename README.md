@@ -35,6 +35,7 @@ The initial dataset contained several missing values and discrepancies. Data cle
 
      - The Finance department has the highest attrition rate at 53.57%, followed by IT at 35.29%.
      - The Sales department has the lowest attrition rate at 20.83%.
+
        <img width="284" alt="Screenshot 2024-02-19 173630" src="https://github.com/aanchals14/Empower-HR/assets/131793044/72c7db5a-d952-4a0d-8e5d-db0c385a0d3b">
 
   2. Position-wise Attrition rates
@@ -45,6 +46,7 @@ The initial dataset contained several missing values and discrepancies. Data cle
      - While Data Scientists have a 31.03% attrition rate, the total number of Data Scientists is the highest at 29. Even if the rate is not the highest, the volume of attrition could be impactful.
      - Interestingly, the HR Coordinator has a higher attrition rate (41.67%) compared to the HR Manager (8.33%), suggesting that the level in the hierarchy could be a factor in job stability.
      - The Marketing Analyst has a lower attrition rate compared to the Marketing Manager. This might indicate that as employees move up the ladder in Marketing, they are more likely to leave.
+
        <img width="309" alt="Screenshot 2024-02-19 174439" src="https://github.com/aanchals14/Empower-HR/assets/131793044/cdaa66f3-f5fc-452b-a652-84b1664233cf">
 
 
@@ -54,6 +56,51 @@ The initial dataset contained several missing values and discrepancies. Data cle
      - Employees with a performance rating of 3.0 have the lowest attrition rate at 23.08%.
      - It's intriguing that employees with high-performance ratings are more likely to leave the company.
        <img width="311" alt="Screenshot 2024-02-19 175011" src="https://github.com/aanchals14/Empower-HR/assets/131793044/e4d73e30-e62c-4e72-8eae-8e75ce6fb4eb">
+
+  4. Age Group-wise attrition rates
+     - Based on the provided data, we can infer that the attrition rate for employees over 30 years old is higher (39.73%) compared to employees aged 30 or below (28.74%).
+     - This indicates that age group may play a role in employee attrition, with older employees more likely to leave the company.
+
+       <img width="288" alt="Screenshot 2024-02-24 192759" src="https://github.com/aanchals14/Empower-HR/assets/131793044/59a72805-d58a-42db-b554-1e6e8b9a2dd9">
+
+
+  5. Gender-wise attrition rate
+     - Gender does not appear to be a significant factor in employee attrition, as both male and female employees have similar attrition rates (32.10% for females and 35.44% for males).
+     - Other factors such as job satisfaction, work-life balance, and career development opportunities may have a more significant impact on employee attrition than gender in this dataset.
+
+       <img width="269" alt="Screenshot 2024-02-24 193519" src="https://github.com/aanchals14/Empower-HR/assets/131793044/8895fcbc-5f84-42be-9add-1846e30b86ed">
+
+  6. Salary-wise attrition rate
+     - Employees in the 90K - 100K salary range have the highest attrition rate (85.71%), indicating that factors beyond salary, such as job satisfaction and growth opportunities, significantly influence retention. This suggests that higher salaries alone may not be sufficient to retain employees.
+     - As salary ranges increase from 70K to 100K, attrition rates consistently rise above 30%, contrasting with lower ranges (50K - 70K) showing rates below 25%, implying that higher salaries prompt employees to seek more fulfilling roles.
+     - Mid-high salary brackets (70K - 90K) face retention challenges, with attrition rates ranging from 32.50% to 38.24%, possibly due to higher expectations, limited growth prospects, or competition from employers offering superior benefits or work environments.
+
+       <img width="292" alt="Screenshot 2024-02-25 003703" src="https://github.com/aanchals14/Empower-HR/assets/131793044/4eb0fbb0-a200-4f1d-a41d-fee82be611cf">
+
+  7. Years of Service-wise attrition rate
+     - Employees with 2 years of service have the highest attrition rate (66.67%), suggesting challenges in retaining employees in the early stages of their tenure. This could be due to factors such as mismatched expectations or career development opportunities.
+     - Attrition rates remain high for employees with 7 years (50.00%) and 10 years (50.00%) of service. This indicates that as employees stay longer, retention becomes more challenging, possibly due to factors such as limited growth opportunities or evolving job preferences.
+     - Employees with 3 or more years of service show relatively stable attrition rates (19.23% to 35.48%). This suggests that after an initial period, employees may become more committed to their roles, leading to lower attrition rates compared to earlier stages.
+
+       <img width="302" alt="Screenshot 2024-02-25 004956" src="https://github.com/aanchals14/Empower-HR/assets/131793044/7d22fd3d-4118-45cb-a63f-3d0cb65913b2">
+
+  8. Satisfaction-score-wise attrition rate
+     - There is no clear trend between satisfaction score and attrition rate. Employees with a satisfaction score of 2 have an attrition rate of 29.41%, while those with scores of 3, 4, and 5 have attrition rates of 37.74%, 33.87%, and 28.57% respectively. This suggests that factors other than satisfaction score may be influencing attrition in this dataset.
+
+       <img width="306" alt="Screenshot 2024-02-25 010735" src="https://github.com/aanchals14/Empower-HR/assets/131793044/94cc724a-ab7b-488a-bc4a-242adb13b972">
+
+  9. Training hour-wise attrition rate
+      - 
+ 10. Work hours-wise attrition rate
+     - Employees working 44 hours have the highest attrition rate (71.43%), followed by those working 45 hours (50.00%) and 42 hours (59.09%). This indicates that longer working hours may lead to higher attrition, possibly due to increased stress, burnout, or dissatisfaction with work-life balance.
+     - Employees working standard 40-hour weeks have a relatively lower attrition rate (17.39%). This suggests that adhering to standard working hours may contribute to higher employee retention, potentially due to better work-life balance and job satisfaction.
+
+       <img width="285" alt="Screenshot 2024-02-25 010034" src="https://github.com/aanchals14/Empower-HR/assets/131793044/56f799a7-7d7d-47cf-ad6d-659fe95f715c">
+
+       
+
+#### Employee Training Program Optimization Analysis
+
 
 ### Recommendations
 - Given the high attrition rates in the Finance and IT departments, targeted retention programs may be effective. This could include mentorship programs, work-life balance initiatives, and career development plans.
