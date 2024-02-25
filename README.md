@@ -90,17 +90,50 @@ The initial dataset contained several missing values and discrepancies. Data cle
        <img width="306" alt="Screenshot 2024-02-25 010735" src="https://github.com/aanchals14/Empower-HR/assets/131793044/94cc724a-ab7b-488a-bc4a-242adb13b972">
 
   9. Training hour-wise attrition rate
-      - 
+      - Employees with fewer training hours show higher attrition rates: 10 hours (59.09%), 20 hours (35.14%), and 25 hours (40.00%). This suggests that inadequate training may lead to employees feeling underprepared or undervalued, increasing the likelihood of leaving.
+      - Higher training hours are associated with lower attrition: employees with 30 hours have a low rate (15.63%). This implies that thorough training and skill development opportunities could reduce attrition rates by enhancing employee satisfaction and proficiency.
+    
+        <img width="291" alt="Screenshot 2024-02-25 112153" src="https://github.com/aanchals14/Empower-HR/assets/131793044/c4b31a13-167b-4ee1-a1f4-cc67407ff512">
+
  10. Work hours-wise attrition rate
      - Employees working 44 hours have the highest attrition rate (71.43%), followed by those working 45 hours (50.00%) and 42 hours (59.09%). This indicates that longer working hours may lead to higher attrition, possibly due to increased stress, burnout, or dissatisfaction with work-life balance.
      - Employees working standard 40-hour weeks have a relatively lower attrition rate (17.39%). This suggests that adhering to standard working hours may contribute to higher employee retention, potentially due to better work-life balance and job satisfaction.
 
        <img width="285" alt="Screenshot 2024-02-25 010034" src="https://github.com/aanchals14/Empower-HR/assets/131793044/56f799a7-7d7d-47cf-ad6d-659fe95f715c">
 
+11. Attrition rate by Promotion:
+    - Employees who were not promoted have a higher attrition rate (35.43%) compared to those who were promoted (27.27%). This suggests that promotion could be a factor influencing employee retention, with those not promoted being more likely to leave.
+    - There is a notable difference in attrition rates between promoted (27.27%) and non-promoted (35.43%) employees. This indicates that promotion may have a mitigating effect on attrition, potentially due to increased job satisfaction or perceived career advancement opportunities.
+
+      <img width="279" alt="Screenshot 2024-02-25 115323" src="https://github.com/aanchals14/Empower-HR/assets/131793044/000344b1-2ebd-49e2-863e-b22fc4573275">
        
-
 #### Employee Training Program Optimization Analysis
+  1. Training Hours vs Promotion Rate:
+     - Employees with 25 training hours have the highest promotion rate (40.00%), followed by those with 30 hours (31.25%), and 20 hours (18.92%). This indicates a trend where higher training hours are associated with higher promotion rates, suggesting the effectiveness of training programs in facilitating career advancement.
+     - The promotion rates for employees with 10 hours of training are the lowest (4.55%), highlighting the potential impact of training on career development. Employees who undergo more training may acquire the skills and knowledge needed for advancement, leading to higher promotion rates.
 
+       <img width="159" alt="Screenshot 2024-02-25 120558" src="https://github.com/aanchals14/Empower-HR/assets/131793044/f390c537-5f7b-4eb1-92c1-abe59168169d">
+
+  2. Training Hours vs. Performance Rating
+     - There is a trend of higher average performance ratings associated with lower training levels. Employees with low training levels have the highest average performance rating (4.0909), followed by medium (3.9737), and high (3.8387). This suggests that extensive training may not always directly correlate with higher performance ratings.
+     - The data indicates that extensive training may not always lead to higher performance ratings. Employees with lower training levels have higher performance ratings on average, suggesting that factors other than training, such as experience, job fit, or individual capabilities, may play a significant role in determining performance.
+
+       <img width="194" alt="Screenshot 2024-02-25 140617" src="https://github.com/aanchals14/Empower-HR/assets/131793044/6bc5b863-08b0-4118-bc7d-2b89574a478d">
+
+  3. Performance Segment vs Training Hours
+     - High performers have the lowest average training hours, indicating they may require less training to achieve high performance. This suggests that high performers may have a higher ability to quickly apply and benefit from training, making their training more effective and efficient.
+     - Low performers, despite having the highest average training hours, still have the lowest performance rating. This indicates that the effectiveness of training programs may vary among different performance categories.
+     - For low performers, simply increasing training hours may not lead to significant performance improvements, suggesting a need for more targeted or comprehensive training approaches.
+
+       <img width="209" alt="Screenshot 2024-02-25 142305" src="https://github.com/aanchals14/Empower-HR/assets/131793044/c40c9bab-3e6c-4b68-b339-b4ae664677e7">
+
+  4. Training Hours vs Departments
+     - Marketing has the highest average training hours (22.12), followed by HR (21.25), Finance (21.43), IT (18.73), and Sales (19.17). This suggests that Marketing and HR departments prioritize or require more extensive training compared to other departments.
+     - IT has the highest average performance rating (4.33), followed by Finance (4.14), Sales (4.00), HR (3.67), and Marketing (3.30). This indicates that IT employees tend to perform better on average compared to other departments, while Marketing employees have the lowest performance rating on average.
+     - Despite Marketing having the highest average training hours, it has the lowest average performance rating. This suggests that the effectiveness of training programs may vary across departments, with Marketing possibly needing to reassess or adjust its training strategies to improve performance outcomes.
+
+       <img width="272" alt="Screenshot 2024-02-25 142502" src="https://github.com/aanchals14/Empower-HR/assets/131793044/78048fe1-1f73-400b-90c6-d905dad58699">
+       
 
 ### Recommendations
 - Given the high attrition rates in the Finance and IT departments, targeted retention programs may be effective. This could include mentorship programs, work-life balance initiatives, and career development plans.
